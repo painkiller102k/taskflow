@@ -1,3 +1,60 @@
 {"level": "INFO", "message": "Root endpoint called", "service": "TaskFlow_API", "timestamp": "2026-05-11T08:31:59.467692", "metadata": {}}
 {"level": "INFO", "message": "Task created", "service": "TaskFlow_API", "timestamp": "2026-05-11T08:32:08.900116", "metadata": {"task_id": 2, "title": "E2E test"}}
 {"level": "INFO", "message": "Fetched all tasks", "service": "TaskFlow_API", "timestamp": "2026-05-11T08:32:13.221594", "metadata": {"count": 2}}
+{"level": "INFO", "message": "Fetched all tasks", "service": "TaskFlow_API", "timestamp": "2026-05-11T08:43:09.904841", "metadata": {"count": 2}}
+{"level": "INFO", "message": "Fetched all tasks", "service": "TaskFlow_API", "timestamp": "2026-05-11T08:43:09.924234", "metadata": {"count": 2}}
+{"level": "INFO", "message": "Task updated", "service": "TaskFlow_API", "timestamp": "2026-05-11T08:43:13.556330", "metadata": {"task_id": 1}}
+{"level": "INFO", "message": "Fetched all tasks", "service": "TaskFlow_API", "timestamp": "2026-05-11T08:43:13.561957", "metadata": {"count": 2}}
+{"level": "INFO", "message": "Task updated", "service": "TaskFlow_API", "timestamp": "2026-05-11T08:43:14.830015", "metadata": {"task_id": 2}}
+{"level": "INFO", "message": "Fetched all tasks", "service": "TaskFlow_API", "timestamp": "2026-05-11T08:43:14.837638", "metadata": {"count": 2}}
+{"level": "INFO", "message": "Task deleted", "service": "TaskFlow_API", "timestamp": "2026-05-11T08:43:15.743425", "metadata": {"task_id": 1}}
+{"level": "INFO", "message": "Fetched all tasks", "service": "TaskFlow_API", "timestamp": "2026-05-11T08:43:15.749759", "metadata": {"count": 1}}
+{"level": "INFO", "message": "Task deleted", "service": "TaskFlow_API", "timestamp": "2026-05-11T08:43:17.009301", "metadata": {"task_id": 2}}
+{"level": "INFO", "message": "Fetched all tasks", "service": "TaskFlow_API", "timestamp": "2026-05-11T08:43:17.018440", "metadata": {"count": 0}}
+{"level": "INFO", "message": "Root endpoint called", "service": "TaskFlow_API", "timestamp": "2026-05-11T08:45:21.100239", "metadata": {}}
+{"level": "INFO", "message": "Fetched all tasks", "service": "TaskFlow_API", "timestamp": "2026-05-11T08:45:30.384925", "metadata": {"count": 0}}
+{"level": "INFO", "message": "Fetched all tasks", "service": "TaskFlow_API", "timestamp": "2026-05-11T08:45:31.360816", "metadata": {"count": 0}}
+{"level": "INFO", "message": "Task created", "service": "TaskFlow_API", "timestamp": "2026-05-11T08:49:34.203303", "metadata": {"task_id": 3, "title": "Esimene Test log"}}
+{"level": "INFO", "message": "Fetched all tasks", "service": "TaskFlow_API", "timestamp": "2026-05-11T08:52:38.771222", "metadata": {"count": 1}}
+{"level": "INFO", "message": "Fetched all tasks", "service": "TaskFlow_API", "timestamp": "2026-05-11T08:52:38.782189", "metadata": {"count": 1}}
+{"level": "INFO", "message": "Fetched all tasks", "service": "TaskFlow_API", "timestamp": "2026-05-11T08:53:24.265929", "metadata": {"count": 1}}
+{"level": "INFO", "message": "Fetched all tasks", "service": "TaskFlow_API", "timestamp": "2026-05-11T08:53:24.280124", "metadata": {"count": 1}}
+{"level": "INFO", "message": "Task created", "service": "TaskFlow_API", "timestamp": "2026-05-11T08:53:42.993242", "metadata": {"task_id": 4, "title": "GitHub repo loomine"}}
+{"level": "INFO", "message": "Fetched all tasks", "service": "TaskFlow_API", "timestamp": "2026-05-11T08:53:43.000510", "metadata": {"count": 2}}
+{"level": "INFO", "message": "Root endpoint called", "service": "TaskFlow_API", "timestamp": "2026-05-11T08:56:02.575261", "metadata": {}}
+{"level": "INFO", "message": "Fetched all tasks", "service": "TaskFlow_API", "timestamp": "2026-05-11T08:56:05.745068", "metadata": {"count": 2}}
+{"level":"INFO","message":"FORWARDER_TEST"}
+{"level":"INFO","message":"E2E_TEST"}
+{"level":"INFO","message":"FORWARDER_TEST_2"}
+{"level":"INFO","message":"FINAL_TEST"}
+{"level": "INFO", "message": "Fetched all tasks", "service": "TaskFlow_API", "timestamp": "2026-05-11T09:41:56.779803", "metadata": {"count": 2}}
+{"level": "INFO", "message": "Fetched all tasks", "service": "TaskFlow_API", "timestamp": "2026-05-11T09:41:56.800764", "metadata": {"count": 2}}
+{"level": "INFO", "message": "Task created", "service": "TaskFlow_API", "timestamp": "2026-05-11T09:42:49.226378", "metadata": {"task_id": 5, "title": "test"}}
+{"level": "INFO", "message": "Fetched all tasks", "service": "TaskFlow_API", "timestamp": "2026-05-11T09:42:49.233999", "metadata": {"count": 3}}
+{"level": "INFO", "message": "Task updated", "service": "TaskFlow_API", "timestamp": "2026-05-11T09:42:57.800207", "metadata": {"task_id": 5}}
+{"level": "INFO", "message": "Fetched all tasks", "service": "TaskFlow_API", "timestamp": "2026-05-11T09:42:57.806178", "metadata": {"count": 3}}
+{"level": "INFO", "message": "Fetched all tasks", "service": "TaskFlow_API", "timestamp": "2026-05-11T09:43:09.833570", "metadata": {"count": 3}}
+{"level": "INFO", "message": "Fetched all tasks", "service": "TaskFlow_API", "timestamp": "2026-05-11T09:43:10.972835", "metadata": {"count": 3}}
+{"level": "INFO", "message": "Task created", "service": "TaskFlow_API", "timestamp": "2026-05-11T09:43:23.592118", "metadata": {"task_id": 6, "title": "test"}}
+{"level": "INFO", "message": "Task created", "service": "TaskFlow_API", "timestamp": "2026-05-11T09:43:24.482976", "metadata": {"task_id": 7, "title": "test"}}
+{"level": "INFO", "message": "Task created", "service": "TaskFlow_API", "timestamp": "2026-05-11T09:44:15.954007", "metadata": {"task_id": 8, "title": "dsadsa"}}
+{"level": "INFO", "message": "Fetched all tasks", "service": "TaskFlow_API", "timestamp": "2026-05-11T09:44:15.965964", "metadata": {"count": 6}}
+{"level": "INFO", "message": "Task updated", "service": "TaskFlow_API", "timestamp": "2026-05-11T09:44:28.474442", "metadata": {"task_id": 7}}
+{"level": "INFO", "message": "Fetched all tasks", "service": "TaskFlow_API", "timestamp": "2026-05-11T09:44:28.481495", "metadata": {"count": 6}}
+{"level": "INFO", "message": "Task updated", "service": "TaskFlow_API", "timestamp": "2026-05-11T09:44:29.452609", "metadata": {"task_id": 6}}
+{"level": "INFO", "message": "Fetched all tasks", "service": "TaskFlow_API", "timestamp": "2026-05-11T09:44:29.458813", "metadata": {"count": 6}}
+{"level": "INFO", "message": "Fetched all tasks", "service": "TaskFlow_API", "timestamp": "2026-05-11T09:45:10.977407", "metadata": {"count": 6}}
+{"level": "INFO", "message": "Fetched all tasks", "service": "TaskFlow_API", "timestamp": "2026-05-11T09:49:56.757661", "metadata": {"count": 6}}
+{"level": "INFO", "message": "Fetched all tasks", "service": "TaskFlow_API", "timestamp": "2026-05-11T09:49:56.767786", "metadata": {"count": 6}}
+{"level": "INFO", "message": "Task deleted", "service": "TaskFlow_API", "timestamp": "2026-05-11T09:49:59.687695", "metadata": {"task_id": 8}}
+{"level": "INFO", "message": "Fetched all tasks", "service": "TaskFlow_API", "timestamp": "2026-05-11T09:49:59.692465", "metadata": {"count": 5}}
+{"level": "INFO", "message": "Task deleted", "service": "TaskFlow_API", "timestamp": "2026-05-11T09:50:00.633718", "metadata": {"task_id": 6}}
+{"level": "INFO", "message": "Fetched all tasks", "service": "TaskFlow_API", "timestamp": "2026-05-11T09:50:00.639908", "metadata": {"count": 4}}
+{"level": "INFO", "message": "Task deleted", "service": "TaskFlow_API", "timestamp": "2026-05-11T09:50:01.564311", "metadata": {"task_id": 5}}
+{"level": "INFO", "message": "Fetched all tasks", "service": "TaskFlow_API", "timestamp": "2026-05-11T09:50:01.573511", "metadata": {"count": 3}}
+{"level": "INFO", "message": "Task deleted", "service": "TaskFlow_API", "timestamp": "2026-05-11T09:50:02.248601", "metadata": {"task_id": 4}}
+{"level": "INFO", "message": "Fetched all tasks", "service": "TaskFlow_API", "timestamp": "2026-05-11T09:50:02.256198", "metadata": {"count": 2}}
+{"level": "INFO", "message": "Task deleted", "service": "TaskFlow_API", "timestamp": "2026-05-11T09:50:03.498023", "metadata": {"task_id": 3}}
+{"level": "INFO", "message": "Fetched all tasks", "service": "TaskFlow_API", "timestamp": "2026-05-11T09:50:03.503189", "metadata": {"count": 1}}
+{"level": "INFO", "message": "Task deleted", "service": "TaskFlow_API", "timestamp": "2026-05-11T09:50:04.607521", "metadata": {"task_id": 7}}
+{"level": "INFO", "message": "Fetched all tasks", "service": "TaskFlow_API", "timestamp": "2026-05-11T09:50:04.617382", "metadata": {"count": 0}}

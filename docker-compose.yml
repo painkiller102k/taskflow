@@ -1,5 +1,3 @@
-version: "3.9"
-
 services:
   db:
     image: mysql:8.0
@@ -42,7 +40,8 @@ services:
       - "8000:8000"
     volumes:
       - ./app:/app
-      - ./logs/app:/app/logs   # 👈 важно: app пишет сюда
+      # 👉 важно: app пишет в /app/logs/app.log
+      - ./logs/app:/app/logs
     networks:
       - taskflow-network
 
@@ -94,7 +93,8 @@ services:
     depends_on:
       - elasticsearch
     volumes:
-      - ./logs/app:/logs
+      # 👉 теперь 1:1 совпадение с app логами
+      - ./logs/app:/logs/app
     networks:
       - taskflow-network
 

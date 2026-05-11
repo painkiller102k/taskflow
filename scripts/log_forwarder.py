@@ -3,24 +3,13 @@ import json
 import os
 import requests
 
-# =========================
-# CONFIG
-# =========================
-
-LOG_FILE = "/logs/app.log"
+LOG_FILE = "/logs/app/app.log"
 ELASTIC_URL = "http://elasticsearch:9200/taskflow-logs/_doc"
 
-# =========================
-# ELASTIC SENDER
-# =========================
 
 def send_to_elastic(log):
     try:
-        response = requests.post(
-            ELASTIC_URL,
-            json=log,
-            timeout=3
-        )
+        response = requests.post(ELASTIC_URL, json=log, timeout=3)
 
         if response.status_code >= 300:
             print("❌ Elasticsearch error:", response.status_code, response.text)
@@ -30,9 +19,6 @@ def send_to_elastic(log):
     except Exception as e:
         print("❌ Error sending log:", e)
 
-# =========================
-# PARSER
-# =========================
 
 def parse_line(line):
     try:
@@ -40,9 +26,6 @@ def parse_line(line):
     except json.JSONDecodeError:
         return None
 
-# =========================
-# WAIT FOR FILE
-# =========================
 
 def wait_for_file():
     print("⏳ Waiting for log file...")
@@ -52,12 +35,9 @@ def wait_for_file():
 
     print("✅ Log file found:", LOG_FILE)
 
-# =========================
-# TAIL -F
-# =========================
 
 def follow(file):
-    file.seek(0, 2)
+    file.seek(0)   # 👈 ВАЖНО (для теста)
 
     while True:
         line = file.readline()
@@ -68,9 +48,6 @@ def follow(file):
 
         yield line
 
-# =========================
-# MAIN
-# =========================
 
 if __name__ == "__main__":
     wait_for_file()

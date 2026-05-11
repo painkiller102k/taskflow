@@ -8,4 +8,4 @@ CREATE TABLE IF NOT EXISTS tasks (
 
 INSERT INTO tasks (title, description, status)
 VALUES
-('Первая задача', 'Тестовая запись для проверки БД', 'todo');
+('Esimene test task', 'Test database task!', 'todo');
