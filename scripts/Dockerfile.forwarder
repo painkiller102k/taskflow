@@ -1,0 +1,9 @@
+FROM python:3.12-slim
+
+WORKDIR /app
+
+RUN pip install requests
+
+COPY scripts/log_forwarder.py .
+
+CMD ["python", "log_forwarder.py"]
