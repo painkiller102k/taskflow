@@ -58,3 +58,39 @@
 {"level": "INFO", "message": "Fetched all tasks", "service": "TaskFlow_API", "timestamp": "2026-05-11T09:50:03.503189", "metadata": {"count": 1}}
 {"level": "INFO", "message": "Task deleted", "service": "TaskFlow_API", "timestamp": "2026-05-11T09:50:04.607521", "metadata": {"task_id": 7}}
 {"level": "INFO", "message": "Fetched all tasks", "service": "TaskFlow_API", "timestamp": "2026-05-11T09:50:04.617382", "metadata": {"count": 0}}
+{"level": "INFO", "message": "Fetched all tasks", "service": "TaskFlow_API", "timestamp": "2026-05-19T12:34:26.216437", "metadata": {"count": 0}}
+{"level": "INFO", "message": "Fetched all tasks", "service": "TaskFlow_API", "timestamp": "2026-05-19T12:34:26.227880", "metadata": {"count": 0}}
+{"level": "INFO", "message": "Task created", "service": "TaskFlow_API", "timestamp": "2026-05-19T12:34:28.912938", "metadata": {"task_id": 9, "title": "dsadsa"}}
+{"level": "INFO", "message": "Fetched all tasks", "service": "TaskFlow_API", "timestamp": "2026-05-19T12:34:28.920437", "metadata": {"count": 1}}
+{"level": "INFO", "message": "Task updated", "service": "TaskFlow_API", "timestamp": "2026-05-19T12:34:30.899618", "metadata": {"task_id": 9}}
+{"level": "INFO", "message": "Fetched all tasks", "service": "TaskFlow_API", "timestamp": "2026-05-19T12:34:30.905981", "metadata": {"count": 1}}
+{"level": "INFO", "message": "Task updated", "service": "TaskFlow_API", "timestamp": "2026-05-19T12:34:32.552774", "metadata": {"task_id": 9}}
+{"level": "INFO", "message": "Fetched all tasks", "service": "TaskFlow_API", "timestamp": "2026-05-19T12:34:32.560335", "metadata": {"count": 1}}
+{"level": "INFO", "message": "Task updated", "service": "TaskFlow_API", "timestamp": "2026-05-19T12:34:35.764795", "metadata": {"task_id": 9}}
+{"level": "INFO", "message": "Fetched all tasks", "service": "TaskFlow_API", "timestamp": "2026-05-19T12:34:35.771627", "metadata": {"count": 1}}
+{"level": "INFO", "message": "Task deleted", "service": "TaskFlow_API", "timestamp": "2026-05-19T12:34:37.002797", "metadata": {"task_id": 9}}
+{"level": "INFO", "message": "Fetched all tasks", "service": "TaskFlow_API", "timestamp": "2026-05-19T12:34:37.010463", "metadata": {"count": 0}}
+{"level": "INFO", "message": "Fetched all tasks", "service": "MMaasikaTest", "timestamp": "2026-05-19T12:41:15.555939", "metadata": {"count": 0}}
+{"level": "INFO", "message": "Fetched all tasks", "service": "MMaasikaTest", "timestamp": "2026-05-19T12:41:15.564024", "metadata": {"count": 0}}
+{"level": "INFO", "message": "Task created", "service": "MMaasikaTest", "timestamp": "2026-05-19T12:41:25.982721", "metadata": {"task_id": 10, "title": "GitHub repo"}}
+{"level": "INFO", "message": "Fetched all tasks", "service": "MMaasikaTest", "timestamp": "2026-05-19T12:41:25.992973", "metadata": {"count": 1}}
+{"level": "INFO", "message": "Task updated", "service": "MMaasikaTest", "timestamp": "2026-05-19T12:41:27.410528", "metadata": {"task_id": 10}}
+{"level": "INFO", "message": "Fetched all tasks", "service": "MMaasikaTest", "timestamp": "2026-05-19T12:41:27.418368", "metadata": {"count": 1}}
+{"level": "INFO", "message": "Task updated", "service": "MMaasikaTest", "timestamp": "2026-05-19T12:41:30.225658", "metadata": {"task_id": 10}}
+{"level": "INFO", "message": "Fetched all tasks", "service": "MMaasikaTest", "timestamp": "2026-05-19T12:41:30.234634", "metadata": {"count": 1}}
+{"level": "INFO", "message": "Task deleted", "service": "MMaasikaTest", "timestamp": "2026-05-19T12:41:31.034749", "metadata": {"task_id": 10}}
+{"level": "INFO", "message": "Fetched all tasks", "service": "MMaasikaTest", "timestamp": "2026-05-19T12:41:31.039100", "metadata": {"count": 0}}
+{"level": "INFO", "message": "Task created", "service": "MMaasikaTest", "timestamp": "2026-05-19T12:41:33.350083", "metadata": {"task_id": 11, "title": "dasdas"}}
+{"level": "INFO", "message": "Fetched all tasks", "service": "MMaasikaTest", "timestamp": "2026-05-19T12:41:33.360106", "metadata": {"count": 1}}
+{"level":"INFO","message":"FINAL_TEST"}
+{"level": "INFO", "message": "Task created", "service": "MMaasikaTest", "timestamp": "2026-05-19T12:44:27.209785", "metadata": {"task_id": 12, "title": "TEST 123123"}}
+{"level": "INFO", "message": "Task created", "service": "MMaasikaTest", "timestamp": "2026-05-19T12:44:28.500523", "metadata": {"task_id": 13, "title": "TEST 123123"}}
+{"level": "INFO", "message": "Fetched all tasks", "service": "MMaasikaTest", "timestamp": "2026-05-19T12:45:12.399277", "metadata": {"count": 3}}
+{"level": "INFO", "message": "Fetched all tasks", "service": "MMaasikaTest", "timestamp": "2026-05-19T12:45:12.436944", "metadata": {"count": 3}}
+{"level": "INFO", "message": "Task deleted", "service": "MMaasikaTest", "timestamp": "2026-05-19T12:45:39.436649", "metadata": {"task_id": 13}}
+{"level": "WARNING", "message": "Task not found for delete", "service": "MMaasikaTest", "timestamp": "2026-05-19T12:45:40.270698", "metadata": {"task_id": 13}}
+{"level": "INFO", "message": "Fetched all tasks", "service": "MMaasikaTest", "timestamp": "2026-05-19T12:45:44.816517", "metadata": {"count": 2}}
+{"level": "INFO", "message": "Fetched all tasks", "service": "MMaasikaTest", "timestamp": "2026-05-19T12:45:44.825874", "metadata": {"count": 2}}
+{"level": "INFO", "message": "Task deleted", "service": "MMaasikaTest", "timestamp": "2026-05-19T12:45:50.875000", "metadata": {"task_id": 12}}
+{"level": "INFO", "message": "Fetched all tasks", "service": "MMaasikaTest", "timestamp": "2026-05-19T12:45:53.725809", "metadata": {"count": 1}}
+{"level": "INFO", "message": "Fetched all tasks", "service": "MMaasikaTest", "timestamp": "2026-05-19T12:45:53.737550", "metadata": {"count": 1}}
