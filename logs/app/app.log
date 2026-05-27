@@ -94,3 +94,35 @@
 {"level": "INFO", "message": "Task deleted", "service": "MMaasikaTest", "timestamp": "2026-05-19T12:45:50.875000", "metadata": {"task_id": 12}}
 {"level": "INFO", "message": "Fetched all tasks", "service": "MMaasikaTest", "timestamp": "2026-05-19T12:45:53.725809", "metadata": {"count": 1}}
 {"level": "INFO", "message": "Fetched all tasks", "service": "MMaasikaTest", "timestamp": "2026-05-19T12:45:53.737550", "metadata": {"count": 1}}
+{"level": "INFO", "message": "Fetched all tasks", "service": "MMaasikaTest", "timestamp": "2026-05-26T15:23:21.931039", "metadata": {"count": 1}}
+{"level": "INFO", "message": "Fetched all tasks", "service": "MMaasikaTest", "timestamp": "2026-05-26T15:23:21.943848", "metadata": {"count": 1}}
+{"level": "INFO", "message": "Task deleted", "service": "MMaasikaTest", "timestamp": "2026-05-26T15:23:24.919099", "metadata": {"task_id": 11}}
+{"level": "INFO", "message": "Fetched all tasks", "service": "MMaasikaTest", "timestamp": "2026-05-26T15:23:24.926912", "metadata": {"count": 0}}
+{"level": "INFO", "message": "Task created", "service": "MMaasikaTest", "timestamp": "2026-05-26T15:23:50.207230", "metadata": {"task_id": 14, "title": "Welcome!"}}
+{"level": "INFO", "message": "Fetched all tasks", "service": "MMaasikaTest", "timestamp": "2026-05-26T15:23:50.227434", "metadata": {"count": 1}}
+{"level": "INFO", "message": "Task updated", "service": "MMaasikaTest", "timestamp": "2026-05-26T15:23:52.686309", "metadata": {"task_id": 14}}
+{"level": "INFO", "message": "Fetched all tasks", "service": "MMaasikaTest", "timestamp": "2026-05-26T15:23:52.692877", "metadata": {"count": 1}}
+{"level": "INFO", "message": "Task created", "service": "MMaasikaTest", "timestamp": "2026-05-26T15:24:07.896432", "metadata": {"task_id": 15, "title": "GitHub"}}
+{"level": "INFO", "message": "Fetched all tasks", "service": "MMaasikaTest", "timestamp": "2026-05-26T15:24:07.903913", "metadata": {"count": 2}}
+{"level": "INFO", "message": "Task created", "service": "MMaasikaTest", "timestamp": "2026-05-26T15:24:18.114499", "metadata": {"task_id": 16, "title": "Docker"}}
+{"level": "INFO", "message": "Fetched all tasks", "service": "MMaasikaTest", "timestamp": "2026-05-26T15:24:18.125265", "metadata": {"count": 3}}
+{"level": "INFO", "message": "Fetched all tasks", "service": "MMaasikaTest", "timestamp": "2026-05-27T07:23:26.921586", "metadata": {"count": 3}}
+{"level": "INFO", "message": "Fetched all tasks", "service": "MMaasikaTest", "timestamp": "2026-05-27T07:23:26.935558", "metadata": {"count": 3}}
+{"level": "INFO", "message": "Task created", "service": "MMaasikaTest", "timestamp": "2026-05-27T07:23:42.499931", "metadata": {"task_id": 17, "title": "Test task123311"}}
+{"level": "INFO", "message": "Fetched all tasks", "service": "MMaasikaTest", "timestamp": "2026-05-27T07:23:42.510137", "metadata": {"count": 4}}
+{"level": "INFO", "message": "Task created", "service": "MMaasikaTest", "timestamp": "2026-05-27T07:25:04.179661", "metadata": {"task_id": 18, "title": "asddsa"}}
+{"level": "INFO", "message": "Task created", "service": "MMaasikaTest", "timestamp": "2026-05-27T07:25:05.277536", "metadata": {"task_id": 19, "title": "asddsa"}}
+{"level": "INFO", "message": "Fetched all tasks", "service": "MMaasikaTest", "timestamp": "2026-05-27T07:25:09.575734", "metadata": {"count": 6}}
+{"level": "INFO", "message": "Fetched all tasks", "service": "MMaasikaTest", "timestamp": "2026-05-27T07:25:09.591792", "metadata": {"count": 6}}
+{"level": "INFO", "message": "Task deleted", "service": "MMaasikaTest", "timestamp": "2026-05-27T07:25:12.322259", "metadata": {"task_id": 19}}
+{"level": "INFO", "message": "Fetched all tasks", "service": "MMaasikaTest", "timestamp": "2026-05-27T07:25:12.333251", "metadata": {"count": 5}}
+{"level": "INFO", "message": "Fetched all tasks", "service": "MMaasikaTest", "timestamp": "2026-05-27T07:34:40.849927", "metadata": {"count": 5}}
+{"level": "INFO", "message": "Fetched all tasks", "service": "MMaasikaTest", "timestamp": "2026-05-27T07:34:40.870378", "metadata": {"count": 5}}
+{"level": "INFO", "message": "Task created", "service": "MMaasikaTest", "timestamp": "2026-05-27T07:34:49.363209", "metadata": {"task_id": 20, "title": "Test task"}}
+{"level": "INFO", "message": "Fetched all tasks", "service": "MMaasikaTest", "timestamp": "2026-05-27T07:34:49.372397", "metadata": {"count": 6}}
+{"level": "INFO", "message": "Task updated", "service": "MMaasikaTest", "timestamp": "2026-05-27T07:34:52.599803", "metadata": {"task_id": 20}}
+{"level": "INFO", "message": "Fetched all tasks", "service": "MMaasikaTest", "timestamp": "2026-05-27T07:34:52.608398", "metadata": {"count": 6}}
+{"level": "INFO", "message": "Task created", "service": "MMaasikaTest", "timestamp": "2026-05-27T07:35:23.502259", "metadata": {"task_id": 21, "title": "TEst"}}
+{"level": "INFO", "message": "Task created", "service": "MMaasikaTest", "timestamp": "2026-05-27T07:35:24.623258", "metadata": {"task_id": 22, "title": "TEst"}}
+{"level": "INFO", "message": "Fetched all tasks", "service": "MMaasikaTest", "timestamp": "2026-05-27T07:35:30.264663", "metadata": {"count": 8}}
+{"level": "INFO", "message": "Fetched all tasks", "service": "MMaasikaTest", "timestamp": "2026-05-27T07:35:30.278457", "metadata": {"count": 8}}
